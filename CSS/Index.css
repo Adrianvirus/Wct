@@ -91,5 +91,9 @@ body{
 }
 
 .padding-arriba{
-	padding-top: 15%
+	padding-top: 15%;
 } 
+
+.padding-espacio{
+	padding-top: 5%;
+}
