@@ -1,0 +1,95 @@
+body{
+	margin-top: 25px;
+	font-family: 'Lato', sans-serif;
+}
+
+
+/*---------ID---------*/
+#Derechos{
+	padding-top:40px
+}
+
+#Servicios ul.Ticket{
+	list-style-image: url(../Img/Ticket.png); 
+}
+
+
+/*----------Clases Index------------------*/
+
+.quitar-float{
+	float: none;
+}
+
+.Ubuntu{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.normal{
+	font-size: 14px;
+	text-align: justify;
+}
+
+.Grande{
+	font-size: 20px;
+}
+
+.Negrita{
+	font-weight: bolder;
+}
+
+.Azul{
+	color: #83A0AE;
+}
+
+.Logo_Blanco{
+	background-image: url(../Img/logo.jpg);
+  	background-repeat: no-repeat;
+  	background-position: left;
+}
+
+.padding-largo{
+	padding-left: 100px;
+}
+
+.padding-abajo{
+	padding-bottom: 100px;
+}
+
+.padding-arriba-largo{
+	padding-top: 300px;	
+}
+
+.myDiv img { 
+	max-width:100%; 
+	max-height:100%; 
+	margin:auto; 
+	display:block; 
+}
+
+.justificado{
+	text-align: justify;
+}
+
+.decoli{
+	list-style-type: square;
+}
+
+.margen-texto{
+	padding: 0 5% 5% 5%;
+}
+
+.Fondo{
+	background: url(../Img/Fondo.png) no-repeat right;
+	background-size: contain;
+}
+
+.imagen{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-right: 2%;
+	padding-left: 2%;
+}
+
+.padding-arriba{
+	padding-top: 15%
+} 
