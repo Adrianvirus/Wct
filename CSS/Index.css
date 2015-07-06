@@ -97,3 +97,19 @@ body{
 .padding-espacio{
 	padding-top: 5%;
 }
+
+
+
+
+/*-----ID-----*/
+#Servicios ul{
+list-style:square;
+text-align: left;
+display: block;
+}
+#Servicios ul li{
+background: url(../Img/Ticket.png) no-repeat left;
+list-style:none;
+width:auto;
+padding-left: 20px;
+}

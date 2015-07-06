@@ -29,7 +29,6 @@ color:#fff;
 
 }
 #menu ul li a:hover{
-
 height:50px;
 width: auto;
 text-decoration:none;
@@ -40,7 +39,6 @@ background: url(../Img/menu_arrow.gif) no-repeat left;
 height:50px;
 width: auto;
 text-decoration:none;
-
 color: #fff;
 background: url(../Img/menu_arrow.gif) no-repeat left;
 }
